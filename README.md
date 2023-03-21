@@ -1,6 +1,6 @@
 # wasteagram
 
-A new Flutter project.
+<img src='app_gif.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Getting Started
 
