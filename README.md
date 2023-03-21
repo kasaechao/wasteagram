@@ -1,6 +1,6 @@
 # wasteagram
 
-<img src='app_gif.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='app_gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Getting Started
 
